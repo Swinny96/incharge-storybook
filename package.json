@@ -11,6 +11,7 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
+    "@netlify/plugin-nextjs": "^4.39.1",
     "eslint": "8.44.0",
     "eslint-config-next": "13.4.9",
     "less": "^4.1.3",
